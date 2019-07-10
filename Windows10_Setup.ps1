@@ -84,4 +84,4 @@ Enable-UAC
 Enable-MicrosoftUpdate
 Install-WindowsUpdate -acceptEula
 
-Rename-Computer -NewName Spectre
+Rename-Computer -NewName Surf
