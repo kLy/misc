@@ -2,7 +2,7 @@
 #
 # Install boxstarter:
 
-Set-ExecutionPolicy RemoteSigned -Force
+# Set-ExecutionPolicy RemoteSigned -Force
 . { iwr -useb http://boxstarter.org/bootstrapper.ps1 } | iex; get-boxstarter -Force
 
 #
